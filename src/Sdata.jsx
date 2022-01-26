@@ -1,6 +1,6 @@
 const Sdata =[
     {
-        imgsrc:'../Image/nike-1.jpg',
+        imgsrc:'./Image/nike-1.jpg',
         title:'Card title 1'
     },
     {
