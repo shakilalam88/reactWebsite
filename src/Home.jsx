@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <>
       <Common
-      header="Grow your business with"
+      header="Grow your business withh"
       button='Get Started'
       imgsrc='https://picsum.photos/1200/800'
       visit='/about'
