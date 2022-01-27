@@ -8,6 +8,7 @@ const Sdata =[
     {
         imgsrc: image1,
         title:'Card title 1',
+
     },
     {
         imgsrc:image2,
